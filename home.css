@@ -262,8 +262,14 @@
     }
     .main-content .content .name-email
     {
+        font-size: small;
     }
-        font-size: small;  
+         
+    .main-content .otherinfo
+    {
+        margin:1%0%;
+        width:auto;
+    }
     
   }
 @media screen and (min-width: 1500px)
@@ -281,10 +287,6 @@
     {
         margin: 0%12%;
     }
-    .main-content .otherinfo
-    {
-        margin:1%0%;
-        width:auto;
-    }
+    
         
 }
