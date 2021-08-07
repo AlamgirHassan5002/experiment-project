@@ -224,4 +224,12 @@
     {
         margin: 0%10%;
     }
+        .header .links
+    {
+        float:right;
+        margin: 3%0%;
+        padding-right: 2px;
+        padding-left: 2px;   
+        font-size: normal;
+    }
   }
