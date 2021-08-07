@@ -212,11 +212,14 @@
 }
 @media screen and (max-width: 800px) {
     .main-content .experience .work-experience {
-        margin:0%3%;
+        margin:0%4%;
         padding:3px 2px;
         
     }
-
+ .main-content .experience .work-experience ol li
+    {
+        margin:0%1%;
+    }
     .main-content .content .name-email
     {
         margin:3%0%;
