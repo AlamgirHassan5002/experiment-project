@@ -54,6 +54,12 @@
     font-family: inherit;
     margin: 0;
 }
+.main-content .otherinfo
+{   display:block;
+    margin:0%16%;
+    padding:1%2%;
+    background-color: #809fff;
+}
 .header .dropdown:hover
 {
     padding: 0%0%;
