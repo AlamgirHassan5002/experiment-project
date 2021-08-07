@@ -253,7 +253,24 @@
     }
     .main-content .content .name-email
     {
-        font-size: small;  
     }
+        font-size: small;  
     
   }
+@media screen and (min-width: 1200px)
+{
+        .main-content .experience .work-experience {
+        margin:0%6%;
+        padding:3px 2px;
+        
+    }
+ .main-content .experience .work-experience ol li
+    {
+        margin:0%1%;
+    }
+     .main-content .interest .interest-content
+    {
+        margin: 0%15%;
+    }
+        
+}
