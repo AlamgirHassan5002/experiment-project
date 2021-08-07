@@ -228,5 +228,10 @@
     {
         font-size: small;
     }
+    .main-content .otherinfo
+    {
+        margin:1%0%;
+        width:auto;
+    }
 
 }
