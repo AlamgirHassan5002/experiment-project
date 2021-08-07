@@ -212,7 +212,7 @@
 }
 @media screen and (max-width: 800px) {
     .main-content .experience .work-experience {
-        margin:0%5%; 
+        margin:0%3%; 
     }
 
     .main-content .content .name-email
@@ -221,6 +221,6 @@
     }
     .main-content .interest .interest-content
     {
-        margin: 0%12%;
+        margin: 0%10%;
     }
   }
