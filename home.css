@@ -56,7 +56,7 @@
 }
 .main-content .otherinfo
 {   display:block;
-    margin:0%16%;
+    margin:-30px 16%;
     padding:1%2%;
     background-color: #809fff;
 }
@@ -275,6 +275,11 @@
      .main-content .interest .interest-content ol li
     {
         margin: 0%12%;
+    }
+    .main-content .otherinfo
+    {
+        margin:1%0%;
+        width:auto;
     }
         
 }
