@@ -204,7 +204,7 @@
     margin-right:10px;
  
 }
-@media screen and (max-width: 800px)
+@media screen and (max-width: 1200px)
 {
     .main-content .content .name-email
     {
@@ -234,7 +234,7 @@
     }
     .main-content .otherinfo
     {
-        margin:1%0%;
+        margin:6%0%;
         width:auto;
     }
 
