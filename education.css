@@ -211,5 +211,22 @@
     {
         margin:0% 16%
     }
+    .header .links
+    {
+        float:right;
+        margin: 3%0%;
+        padding-right: 2px;
+        padding-left: 4px;   
+        font-size: small;
+    }
+    .header .dropdown
+    {
+        margin: 3%0%;
+        padding:0%0%;
+    }
+    .header .dropdown h3
+    {
+        font-size: small;
+    }
 
 }
