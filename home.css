@@ -221,7 +221,7 @@
     margin-right:10px;
  
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
     .main-content .experience .work-experience {
         margin:0%4%;
         padding:3px 2px;
@@ -272,21 +272,4 @@
     }
     
   }
-@media screen and (min-width: 1500px)
-{
-        .main-content .experience .work-experience {
-        margin:0%6%;
-        padding:3px 2px;
-        
-    }
- .main-content .experience .work-experience ol li
-    {
-        margin:0%1%;
-    }
-     .main-content .interest .interest-content ol li
-    {
-        margin: 0%12%;
-    }
-    
-        
-}
+
