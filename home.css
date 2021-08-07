@@ -226,6 +226,10 @@
     {
         margin:0%1%;
     }
+    .main-content .experience .work-experience ol
+    {
+        padding:1%0%;
+    }
     .main-content .content .name-email
     {
         margin:3%0%;
@@ -257,7 +261,7 @@
         font-size: small;  
     
   }
-@media screen and (min-width: 1200px)
+@media screen and (min-width: 1500px)
 {
         .main-content .experience .work-experience {
         margin:0%6%;
@@ -268,9 +272,9 @@
     {
         margin:0%1%;
     }
-     .main-content .interest .interest-content
+     .main-content .interest .interest-content ol li
     {
-        margin: 0%15%;
+        margin: 0%12%;
     }
         
 }
